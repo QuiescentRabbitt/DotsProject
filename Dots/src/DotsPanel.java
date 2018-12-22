@@ -3,7 +3,8 @@ import java.awt.*;
 import java.awt.event.*;
 import java.util.*;
 
-
+//@QuiescentRabbitt
+//DotsProject 4/19/18
 
 public class DotsPanel extends JPanel {
 
